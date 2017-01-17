@@ -1,7 +1,7 @@
 ## Synopsis
 
 MPI Matrix Multiplication using FOX algorithm.
-Work developed in the CP.
+Work developed in the CP from FCUP.
 
  
 ## Features 
